@@ -1,2 +1,2 @@
-# Swapping of numbers: (without using Temporary variable)
+# Swapping of numbers: (Without using Temporary Variable)
 Swap Numbers Without Using Temporary Variables
