@@ -4,3 +4,4 @@
 ## To understand this program, you should have the following concepts in mind: 
 - Variables.
 - Declaration/Initialization.
+- Printing statement.
